@@ -2,7 +2,7 @@
 
 - 🌱 Estou atualmente aprendendo Java, JavaScript, React, SQL e C#
 - 🤔 Procuro pessoas para aprender mais sobre qualquer tecnologia
-- 😄 Pronouns: ElE/Dele
+- 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Serei o maior programador de jogos que esse mundo já viu
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
