@@ -36,6 +36,3 @@
     <img aling="center" alt="hugo-devops" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
     style="max-width:100%;">
 </div>
-
-## Progresso 🚧
-![snake gif](https://github.com/HMCarvalho-220/HMCarvalho-220/blob/output/github-contribution-grid-snake.svg)
