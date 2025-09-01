@@ -1,4 +1,4 @@
-## Olá meu nome é Hugo Macedo e sou um progrmador em desenvvolvimento👋
+## Olá meu nome é Hugo Macedo e sou um progrmador em desenvolvimento👋
 
 - 🌱 Estou atualmente aprendendo Java, JavaScript, React, SQL e C#
 - 🤔 Procuro pessoas para aprender mais sobre qualquer tecnologia
