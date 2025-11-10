@@ -1,6 +1,6 @@
 ## Olá meu nome é Hugo Macedo e sou um progrmador em desenvolvimento👋
 
-- 🌱 Estou atualmente aprendendo Java, JavaScript, React, SQL e C#
+- 🌱 Estou atualmente aprendendo Java, JavaScript, React, SQL, C#, NextJs.
 - 🤔 Procuro pessoas para aprender mais sobre qualquer tecnologia
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Serei o maior programador de jogos que esse mundo já viu
@@ -8,7 +8,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HMCarvalho-220&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HMCarvalho-220&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
 
@@ -19,20 +19,24 @@
 
 ## Tecnologias 💻
 <div>
-    <img aling="center" alt="hugo-java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
+    <img align="center" alt="hugo-java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
     style="max-width:100%;">
-    <img aling="center" alt="hugo-js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    <img align="center" alt="hugo-js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
     style="max-width:100%;">
-    <img aling="center" alt="hugo-react" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    <img align="center" alt="hugo-react" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
     style="max-width:100%;">
-    <img aling="center" alt="hugo-c#" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+    <img align="center" alt="hugo-c#" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
     style="max-width:100%;">
-    <img aling="center" alt="hugo-css" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    <img align="center" alt="hugo-css" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
     style="max-width:100%;">
-    <img aling="center" alt="hugo-html" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+    <img align="center" alt="hugo-html" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
     style="max-width:100%;">
-    <img aling="center" alt="hugo-sql" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    <img align="center" alt="hugo-sql" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
     style="max-width:100%;">
-    <img aling="center" alt="hugo-devops" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
+    <img align="center" alt="hugo-devops" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
+    style="max-width:100%;">
+    <img align="center" alt="hugo-nextjs" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+    style="max-width:100%;">
+    <img align="center" alt="hugo-spring" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
     style="max-width:100%;">
 </div>
