@@ -6,7 +6,7 @@ Desenvolvedor com mais de 2 anos de experiência prática construindo APIs REST,
 
 - 💼 **Experiência Profissional:** Atualmente atuando com **Fullstack & Automação de Dados na Prefeitura de Belo Horizonte (DECAP/ASPE)**, projetando fluxos automatizados de validação de dados e dashboards analíticos no Looker. Anteriormente, atuei por 2 anos como **Desenvolvedor Java na TopDown Sistemas**, focando em otimização de queries SQL complexas, automação de testes (JUnit/Mockito) e pipelines de CI/CD no Azure DevOps.
 - 🧠 **IA, Dados & Algoritmos:** Experiência acadêmica e prática em mineração de dados, pipelines em Python, algoritmos baseados em grafos e arquiteturas modernas assistidas por IA.
-- 🌎 **Idiomas:** Português (Nativo) | Inglês (Avançado/Fluente).
+- 🌎 **Idiomas:** Português (Nativo) | Inglês (Avançado/Fluente) | Espanhol (Intermediário).
 
 ---
 
